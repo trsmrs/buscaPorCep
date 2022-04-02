@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(160, 132, 97);
+}
+
+.di{
+    margin: 100px;
+}
+
+.divForm label{
+    margin-left: 2vw;
+}
+
+.divForm input{
+    display: block;
+    margin-left: 3vw;
+}
+
+.header{
+    background-color: rgb(119, 56, 56);
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(226, 217, 217);
+}
